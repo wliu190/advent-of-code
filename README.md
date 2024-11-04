@@ -7,3 +7,4 @@
 - Day 6: More loops. Chonky solution, could have used better list comprehension. Not sure about speed?
 - Day 7: More loops and conditional statements. Pretty happy with this one. 
 - Day 8, 9: Both chonky solutions which weren't great. Need to understand the problem better and explore more cases.
+- Day 10: Easier day so much less painful. New next() function was useful. 
